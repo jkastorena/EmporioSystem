@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "itemId": 1,
+    "configValues": [
+      {
+        "id": 1,
+        "itemConfigId": 201,
+        "config": "Color",
+        "value": "Blue"
+      },
+      {
+        "id": 2,
+        "itemConfigId": 202,
+        "config": "Size",
+        "value": "Large"
+      }
+    ]
+  }

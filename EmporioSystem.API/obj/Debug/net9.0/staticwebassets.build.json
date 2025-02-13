@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4jkRz0BjKgfD8ikLie/+LjEfI/72jMkeuNvx30hbZg8=",
+  "Source": "EmporioSystem.API",
+  "BasePath": "_content/EmporioSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,14 @@
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\bin\Debug\net9.0\EmporioSystem.DATA.deps.json
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\bin\Debug\net9.0\EmporioSystem.DATA.runtimeconfig.json
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\bin\Debug\net9.0\EmporioSystem.DATA.dll
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\bin\Debug\net9.0\EmporioSystem.DATA.pdb
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\EmporioSystem.DATA.csproj.AssemblyReference.cache
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\EmporioSystem.DATA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\EmporioSystem.DATA.AssemblyInfoInputs.cache
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\EmporioSystem.DATA.AssemblyInfo.cs
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\EmporioSystem.DATA.csproj.CoreCompileInputs.cache
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\EmporioSystem.DATA.dll
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\refint\EmporioSystem.DATA.dll
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\EmporioSystem.DATA.pdb
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\EmporioSystem.DATA.genruntimeconfig.cache
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\ref\EmporioSystem.DATA.dll

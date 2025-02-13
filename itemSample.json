@@ -1,0 +1,17 @@
+{
+    "id": 12345,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and 20-hour battery life.",
+    "image": "https://example.com/images/headphones.jpg",
+    "serialNumber": "WH-2023-123456",
+    "brand": "SoundMax",
+    "model": "WH-200X",
+    "category": "Electronics",
+    "subCategory": "Audio",
+    "color": "Black",
+    "size": "One Size",
+    "material": "Plastic and Metal",
+    "dateOfRecive": null,
+    "dateOfShipping": null
+  }
+

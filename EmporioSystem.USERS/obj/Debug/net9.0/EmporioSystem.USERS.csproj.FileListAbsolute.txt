@@ -1,0 +1,12 @@
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\bin\Debug\net9.0\EmporioSystem.USERS.deps.json
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\bin\Debug\net9.0\EmporioSystem.USERS.dll
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\bin\Debug\net9.0\EmporioSystem.USERS.pdb
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\EmporioSystem.USERS.csproj.AssemblyReference.cache
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\EmporioSystem.USERS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\EmporioSystem.USERS.AssemblyInfoInputs.cache
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\EmporioSystem.USERS.AssemblyInfo.cs
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\EmporioSystem.USERS.csproj.CoreCompileInputs.cache
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\EmporioSystem.USERS.dll
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\refint\EmporioSystem.USERS.dll
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\EmporioSystem.USERS.pdb
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\ref\EmporioSystem.USERS.dll
