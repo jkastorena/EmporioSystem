@@ -141,3 +141,4 @@ E:\Repos\C#\EmporioSystem\EmporioSystem.API\obj\Debug\net9.0\ref\EmporioSystem.A
 E:\Repos\C#\EmporioSystem\EmporioSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\Repos\C#\EmporioSystem\EmporioSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\Repos\C#\EmporioSystem\EmporioSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Repos\C#\EmporioSystem\EmporioSystem.API\obj\Debug\net9.0\EmporioSystem.API.sourcelink.json

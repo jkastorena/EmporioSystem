@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmporioSystem.USERS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+650a28d8d2e2245abf8355e7cdaf706179d349fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmporioSystem.USERS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmporioSystem.USERS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

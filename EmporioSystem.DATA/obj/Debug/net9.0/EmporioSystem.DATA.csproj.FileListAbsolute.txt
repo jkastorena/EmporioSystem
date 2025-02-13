@@ -12,3 +12,4 @@ E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\refint\EmporioSyst
 E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\EmporioSystem.DATA.pdb
 E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\EmporioSystem.DATA.genruntimeconfig.cache
 E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\ref\EmporioSystem.DATA.dll
+E:\Repos\C#\EmporioSystem\EmporioSystem.DATA\obj\Debug\net9.0\EmporioSystem.DATA.sourcelink.json

@@ -10,3 +10,4 @@ E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\EmporioSystem.USE
 E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\refint\EmporioSystem.USERS.dll
 E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\EmporioSystem.USERS.pdb
 E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\ref\EmporioSystem.USERS.dll
+E:\Repos\C#\EmporioSystem\EmporioSystem.USERS\obj\Debug\net9.0\EmporioSystem.USERS.sourcelink.json
